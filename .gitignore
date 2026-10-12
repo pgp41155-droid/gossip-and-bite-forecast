@@ -1,0 +1,6 @@
+node_modules/
+*.local.json
+GnB-*.json
+chat.txt
+chat.md
+private/
